@@ -1,4 +1,4 @@
-package com.example.composenoteapp
+package com.example.composenoteapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
